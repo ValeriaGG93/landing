@@ -1,0 +1,4 @@
+/* vale_ webfonts — Space Grotesk, Space Mono, Archivo (Google Fonts).
+   NOTE: loaded from the Google Fonts CDN. For GDPR-sensitive deployments,
+   self-host these binaries and swap the src: url() below. */
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&family=Space+Mono:wght@400;700&display=swap");

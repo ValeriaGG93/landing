@@ -1,0 +1,21 @@
+:root{
+--font-display:"Space Grotesk","Helvetica Neue",Arial,sans-serif;
+--font-mono:"Space Mono","SFMono-Regular",Menlo,monospace;
+--font-body:"Archivo","Helvetica Neue",Arial,sans-serif;
+
+--weight-display:700;--weight-display-med:500;
+--weight-body:400;--weight-body-strong:600;
+--weight-mono:400;--weight-mono-bold:700;
+
+/* display scale — Space Grotesk 700, tight tracking */
+--size-display-xl:72px;--size-display-l:52px;--size-display-m:38px;--size-display-s:28px;
+--track-display:-0.03em;--leading-display:1.04;
+
+/* body — Archivo */
+--size-body-l:19px;--size-body-m:16px;--size-body-s:14px;
+--leading-body:1.6;--track-body:0; /* @kind other */
+
+/* mono labels — Space Mono, uppercase, wide tracking */
+--size-mono-l:15px;--size-mono-m:13px;--size-mono-s:11px;
+--track-mono:0.08em;--track-mono-wide:0.14em;--leading-mono:1.4;
+}
